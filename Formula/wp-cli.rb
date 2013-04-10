@@ -2,8 +2,8 @@ require 'formula'
 
 class WpCli < Formula
   homepage 'https://github.com/wp-cli/wp-cli/'
-  url 'https://github.com/wp-cli/wp-cli.git', :tag => 'v0.7.0'
-  version '0.7.0'
+  url 'https://github.com/wp-cli/wp-cli.git', :tag => 'v0.8.0'
+  version '0.8.0'
   head 'https://github.com/wp-cli/wp-cli.git'
 
   def install
